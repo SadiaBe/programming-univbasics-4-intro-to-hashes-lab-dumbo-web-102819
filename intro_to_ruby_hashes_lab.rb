@@ -2,7 +2,6 @@
   {}
 end
 
-def my_hash {
-  "name" => "Sadia"
-}
+def my_hash 
+  { "name" => "Sadia" }
 end
