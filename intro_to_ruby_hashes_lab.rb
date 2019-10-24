@@ -2,15 +2,18 @@
    {}
 end
 
-def my_hash { "name" => "Sadia", "age" => 23 }
+def my_hash 
+  { "name" => "Sadia", "age" => 23 }
 end
 
 
-def pioneer {name: "Grace Hopper" }
+def pioneer 
+  {name: "Grace Hopper" }
 end
 
 
-def id_generator {id: 6}
+def id_generator 
+  {id: 6}
 end
 
 
