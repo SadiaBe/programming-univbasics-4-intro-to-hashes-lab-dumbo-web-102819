@@ -3,5 +3,5 @@
 end
 
 def my_hash 
-  { "name" => "Sadia" }
+  { name: "Sadia" }
 end
